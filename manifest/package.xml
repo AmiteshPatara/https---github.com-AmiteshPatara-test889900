@@ -40,5 +40,9 @@
 		<members>Welcome_to_Analytics</members>
 		<name>WaveRecipe</name>
 	</types>
+	<types>
+		<members>Welcome_to_Analytics</members>
+		<name>WaveDashboard</name>
+	</types>
 	<version>53.0</version>
 </Package>
